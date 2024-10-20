@@ -1,2 +1,3 @@
-# Investment_project
-This is a Django application designed to track investments and expenses. It allows users to record and monitor their spending, investments, and earnings, providing a clear overview of their financial situation. It is especially useful for those who want to manage their finances in an efficient and organized manner.
+# projeto_investimentos
+Este é um aplicativo Django projetado para controlar investimentos e gastos. Permite aos usuários registrar e monitorar suas despesas, investimentos e ganhos, fornecendo uma visão clara de sua situação financeira. Útil para quem deseja gerenciar suas finanças de forma eficiente e organizada.
+
